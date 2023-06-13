@@ -1,0 +1,41 @@
+{
+	"name": "cosmic-smash",
+	"short_name": "cosmic-smash",
+	"description": "Aliens have come to Earth. Convinced of their own superiority, they are certain they can defeat us at any game we choose. The stakes? Planetary annihilation. Earth chooses its favorite sport: soccer. Though the aliens have no doubt they will win, their bodies are more akin to jellyfish than that of human beings. The humans quickly realize that the force of a soccer kick could cause their spacebound bodies to practically vaporize. Recruiting its most powerful shooters, Team Earth begins to disintegrate their opponents. Determined not to be humiliated by these primitive planet dwellers, the aliens commit ever larger hordes of their own to the melee, as Earth’s defenders desperately resist being overwhelmed.",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
